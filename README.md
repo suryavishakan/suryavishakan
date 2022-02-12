@@ -1,4 +1,4 @@
-### Hi there 👋, I am Surya
+<h3 align = "center">Hi 👋, I'm Surya</h3>
 
 Web development enthusiast who really likes to expand skills and gain
 valuable real-world experience. I am proficient in CSS and JS, with extensive knowledge of UX and User psychology.
