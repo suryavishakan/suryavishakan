@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234FFAFF&lines=+Welcome+to+my+github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234FFAFF&lines=+Welcome+to+my+github+profile!!)](https://git.io/typing-svg)
 
 <h2 align="center">Hi, I'm Surya <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px /></h2>
 
