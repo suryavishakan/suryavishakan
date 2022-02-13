@@ -6,6 +6,7 @@
 ![](images/banner.png)
 
 <h3>A few things about me</h3>
+
  - ⭐ I'm from India
  - 🙌 I'm a student, web developer and a designer
  - 🚀 Building value and satisfaction through design 
