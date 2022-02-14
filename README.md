@@ -12,9 +12,6 @@
  <a href="https://twitter.com/SuryaWein">
     <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
- <a href="https://twitter.com/SuryaWein">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://twitter.com/SuryaWein">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
