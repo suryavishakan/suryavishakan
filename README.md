@@ -25,11 +25,11 @@
 
 <h3>A few things about me</h3>
 
- - ⭐ I'm from India
- - 🙌 I'm a student, web developer and a designer
- - 🚀 Building value and satisfaction through design 
- - ✨ Currently working on a **NGO website**
- - ❤️ Learning **React** and **Typescript**
+ - ⭐ I'm from India.
+ - 🙌 I'm a student, web developer and a designer.
+ - 🚀 Building value and satisfaction through design.
+ - ✨ Currently working on a **NGO website**.
+ - ❤️ Learning **React** and **TypeScript**.
  - 💻 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-vishakan-99374b201/)
 
 ---
