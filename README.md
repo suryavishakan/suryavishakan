@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi, I'm Surya <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px /></h1>
 
+
+
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/surya-vishakan-99374b201/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +21,6 @@
 </div>
 
 ---
-
 
 ![](images/banner.png)
 
