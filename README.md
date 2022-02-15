@@ -26,7 +26,7 @@
 <h3>A few things about me</h3>
 
  - ⭐ I'm from India.
- - 🙌 I'm a student, web developer and a designer.
+ - 🙌 I'm a student, web developer, and designer.
  - 🚀 Building value through design.
  - ✨ Currently working on a **NGO website**.
  - ❤️ Learning **React** and **TypeScript**.
