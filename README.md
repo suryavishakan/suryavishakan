@@ -27,7 +27,6 @@
 
  - 🙌 I'm a student, web developer, and designer.
  - 🚀 Building value through design.
- - ✨ Currently working on a **NGO website**.
  - ❤️ Learning **React** and **TypeScript**.
 
 ---
