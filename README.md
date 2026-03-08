@@ -48,6 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://intuzwebsite.cdn.prismic.io/intuzwebsite/de85ddb7-c357-4c69-a08a-f5889a1bd98d_express.svg" title="ExpressJS" alt="expressjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  
   <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
 </div>
