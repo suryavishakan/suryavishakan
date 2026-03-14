@@ -1,65 +1,59 @@
+<!--
+    Hey there, I’m Surya Vishakan!
+    Happy to see you here exploring my README code.
+    Feel free to get inspired :)
+-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234FFAFF&lines=+Welcome+to+my+github+profile!!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF914D&height=120&section=header" alt="header"/>
 
-<h1 align="center">Hi, I'm Surya <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px /></h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FF914D&width=600&lines=Hello%2C+I'm+Surya+Vishakan;React+Developer+%7C+Full+Stack+Engineer" alt="Surya Vishakan"/>
+</a>
 
-
-
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/surya-vishakan-99374b201/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <a href="https://twitter.com/SuryaWein">
-    <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/SuryaWein">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
----
-
-![](images/banner.png)
-
----
-
-<h3>A few things about me</h3>
-
- - 🙌 I'm a student, web developer, and designer.
- - 🚀 Building value through design.
- - ❤️ Learning **React** and **TypeScript**.
-
----
-
-<h3 align="left">Languages and Tools :</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://intuzwebsite.cdn.prismic.io/intuzwebsite/de85ddb7-c357-4c69-a08a-f5889a1bd98d_express.svg" title="ExpressJS" alt="expressjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
+  <img src="./assets/about_surya.gif" alt="About Me Terminal GIF"/>
 </div>
 
+---
+
+### About me
+
+I’m a React Developer and Full Stack Engineer currently pursuing my Master’s in Computer Science at the University of Central Missouri. I enjoy building scalable, production-ready web apps with modern JavaScript, clean UI, and solid backend APIs.
+
+Recently I’ve been working on multi-domain platforms at Greenheap, AI‑powered LMS tools at Mavdero, and polishing my JavaScript & React skills through real projects.
 
 ---
 
-###  My Stats :
+### Main skills
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suryavishakan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,html,css,sass,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,py,java,git,github,aws,azure,docker,kubernetes,vscode,figma)](https://skillicons.dev)
+
+
+### Connect with me
+
+<div>
+  <a href="https://www.linkedin.com/in/suryavishakan/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF7F27?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/suryavishakan">
+    <img src="https://img.shields.io/badge/GitHub-FF7F27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:vishakansurya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF7F27?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryavishakan&layout=compact&theme=vision-friendly-dark)](https://github.com/suryavishakan/github-readme-stats)
+### Employer?
 
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1qatnidZOz5miTM5QO9WTIwtCQLWdOUKz/view?usp=sharing" download>Download my resume</a>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF914D&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->
